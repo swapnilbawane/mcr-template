@@ -35,5 +35,15 @@
     "eslint-plugin-react-hooks": "^4.6.0",
     "eslint-plugin-react-refresh": "^0.4.1",
     "vite": "^4.4.0"
-  }
+  },
+  "files": [
+    ".eslintrc.cjs",
+    ".gitignore",
+    "index.html",
+    "package-lock.json",
+    "public",
+    "README.md",
+    "src",
+    "vite.config.js"
+  ]
 }
