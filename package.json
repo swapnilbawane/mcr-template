@@ -1,6 +1,6 @@
 {
   "name": "mcr-template",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "type": "module",
   "description": "This template provides bare minimum project structure for MCR Rounds",
   "author": "Swapnil Bawane",
