@@ -5,6 +5,10 @@
   "description": "This template provides bare minimum project structure for MCR Rounds",
   "author": "Swapnil Bawane",
   "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/swapnilbawane/mcr-template"
+  },
   "scripts": {
     "dev": "vite",
     "build": "vite build",
