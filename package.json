@@ -5,6 +5,9 @@
   "description": "This template provides bare minimum project structure for MCR Rounds",
   "author": "Swapnil Bawane",
   "license": "ISC",
+  "bin": {
+    "mcr-template-init": "./mcr-template-init.js"
+  },
   "repository": {
     "type": "git",
     "url": "https://github.com/swapnilbawane/mcr-template"
@@ -16,6 +19,8 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "fs": "^0.0.1-security",
+    "ignore": "^5.2.4",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-router": "^6.14.1",
