@@ -50,3 +50,5 @@ for (const fileOrDir of filesAndDirectories) {
     fs.writeFileSync(filePath, '', 'utf-8');
   }
 }
+
+console.log('Project initialization complete!');
