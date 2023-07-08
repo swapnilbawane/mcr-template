@@ -40,6 +40,7 @@
     ".eslintrc.cjs",
     ".gitignore",
     "index.html",
+    "mcr-template-init.js",
     "package-lock.json",
     "public",
     "README.md",
