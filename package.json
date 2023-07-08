@@ -1,6 +1,6 @@
 {
   "name": "mcr-template",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "type": "module",
   "description": "This template provides bare minimum project structure for MCR Rounds",
   "author": "Swapnil Bawane",
@@ -26,7 +26,7 @@
     "react-dom": "^18.2.0",
     "react-router": "^6.14.1",
     "react-router-dom": "^6.14.1",
-    "mcr-template": "^1.0.0"  
+    "mcr-template": "^1.0.0"
   },
   "devDependencies": {
     "@types/react": "^18.2.14",
