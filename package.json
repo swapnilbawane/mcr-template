@@ -5,15 +5,12 @@
   "description": "This template provides bare minimum project structure for MCR Rounds",
   "author": "Swapnil Bawane",
   "license": "ISC",
-  "bin": {
-    "mcr-template-init": "./mcr-template-init.js"
-  },
   "repository": {
     "type": "git",
     "url": "https://github.com/swapnilbawane/mcr-template"
   },
   "scripts": {
-    "init": "mcr-template-init",
+    "init": "node ./init.js",
     "dev": "vite",
     "build": "vite build",
     "lint": "eslint src --ext js,jsx --report-unused-disable-directives --max-warnings 0",
@@ -42,7 +39,6 @@
     ".eslintrc.cjs",
     ".gitignore",
     "index.html",
-    "mcr-template-init.js",
     "package-lock.json",
     "public",
     "README.md",
